@@ -1,2 +1,7 @@
 # CS-350-Project
 Final Project for CS-250-H4876 Software Development Lifecycle 21EW4
+
+When it comes to user needs you can either research reviews on what consumers find useful in similar applications as yours and what turns them off, so you have a list on what to avoid. Another great way to get immediate feedback is to hire a group of testers and or consumers at the start of the project planning to gauge the interest on what people would expect from the product.
+Creating user stories then allows you to conceptualize the information found and turn it into something that is digestible by a team. When it comes to actual development, the creators do not need to know everything that was thought of in the pitch meeting, but a user story to know what is pressing and important and a format to turn the story into code or any other form of development. 
+During the development of programs, I like to make sure I am constantly testing every time I add a significant code block. The agile process of test-driven development and continuous integration is something I hope to go more into and develop good habits and practices for. 
+To be a good member of a team in software development is to be a good communicator throughout the life cycle of the project. I think my biggest take away from learning about Scrum and other agile teams is that there is always a team that has many forms of communicating and holding each other accountable to make sure the job gets done.
