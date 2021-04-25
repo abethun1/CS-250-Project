@@ -1,4 +1,4 @@
-# CS-350-Project
+# CS-250-Project
 Final Project for CS-250-H4876 Software Development Lifecycle 21EW4
 
 When it comes to user needs you can either research reviews on what consumers find useful in similar applications as yours and what turns them off, so you have a list on what to avoid. Another great way to get immediate feedback is to hire a group of testers and or consumers at the start of the project planning to gauge the interest on what people would expect from the product.
